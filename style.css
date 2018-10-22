@@ -1,0 +1,23 @@
+body {
+	margin:0px;
+	margin-left:34px;
+		
+	font-family: verdana;
+	font-size: 14px;
+	
+	background-color: white;
+	background-image: url( 'images/spiralnotebook.jpg' ); background-repeat: repeat-y;
+}
+
+div.body {text-align: left; width: 85%;}
+
+.banner { width: 720px; height: 230px; display: block; text-decoration: none; background-repeat: no-repeat; background-image:url(images/banner.jpg); }
+.banner:hover { background-image:url(images/banner2.jpg); }
+
+img { /* affects all images */ border: 0 none;}
+
+a { text-decoration: none; border: 0px; color: 3b86cd; font-weight: bold; }
+a:link { text-decoration: none; border: 0px; color: 3b86cd; font-weight: bold; }
+a:visited { text-decoration: none; border: 0px; color: 3b86cd; font-weight: bold; }
+a:hover { text-decoration: none; border: 0px; color: 0a4072; font-weight: bold; }
+
